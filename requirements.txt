@@ -25,3 +25,4 @@ termcolors==0.1.0
 future
 fuzzywuzzy
 uddup
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
