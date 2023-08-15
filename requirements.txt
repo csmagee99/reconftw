@@ -9,10 +9,10 @@ colorclass==2.2.0
 netaddr==0.7.20
 tqdm==4.36.1
 tld
-certifi==2020.4.5.1
+certifi==2023.7.22.1
 chardet==3.0.4
 idna==2.9
-requests==2.23.0
+requests==2.31.0
 termcolor==1.1.0
 argparse==1.4.0
 beautifulsoup4==4.6.3
@@ -25,3 +25,5 @@ termcolors==0.1.0
 future
 fuzzywuzzy
 uddup
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
