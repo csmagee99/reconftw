@@ -11,7 +11,7 @@ tqdm==4.36.1
 tld
 certifi==2020.4.5.1
 chardet==3.0.4
-idna==2.9
+idna==3.7
 requests==2.23.0
 termcolor==1.1.0
 argparse==1.4.0
