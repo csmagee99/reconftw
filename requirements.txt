@@ -7,7 +7,7 @@ ipwhois
 fake-useragent
 colorclass==2.2.0
 netaddr==0.7.20
-tqdm==4.36.1
+tqdm==4.66.3
 tld
 certifi==2020.4.5.1
 chardet==3.0.4
